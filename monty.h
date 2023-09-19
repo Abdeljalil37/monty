@@ -14,5 +14,6 @@ void f_pall(stack_t **head, unsigned int number);
 void f_pint(stack_t **head, unsigned int counter);
 void f_pop(stack_t **head, unsigned int counter);
 void f_swap(stack_t **head, unsigned int counter);
+void f_nop(stack_t **head, unsigned int counter);
 
 #endif
