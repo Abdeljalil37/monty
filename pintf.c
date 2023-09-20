@@ -3,7 +3,7 @@
 /**
  * f_pint - prints the top inyeget
  * @head: stack head
- * @count: line number
+ * @counter: line number
  * Return: no return nothing
 */
 
